@@ -127,3 +127,11 @@
   <li>⚛️ **The Ultimate React Course 2024: React, Next.js, Redux & More** from **Udemy**</li>
   <li>🐍 **Python Full Course for free 🐍 (2024)** by **BroCode** on **YouTube**</li>
 </ul>
+
+<h3 align="center">🎯 My Learning Goals</h3>
+<p align="center">
+  🔐 Dive deeper into **Cybersecurity** and **Penetration Testing**  
+  ⚙️ Master **Full-Stack Development** with **Node.js** and **MongoDB**  
+  📚 Learn more about **Cloud Technologies** and **AWS**
+</p>
+
