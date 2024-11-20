@@ -125,3 +125,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbb1235&exclude=HTML,CSS&langs_count=10&layout=compact&theme=radical" alt="Ayoub's top languages"/>
 </p>
 
+
+
+<h3 align="center">📝 Languages I Use:</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbb1235&exclude_repo=html-repo,css-repo&langs_count=10&layout=compact&theme=radical" alt="Ayoub's top languages"/>
+</p>
+
+
+
+<h3 align="center">📝 Languages I Use:</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbb1235&langs_count=10&exclude_html_css=true&layout=compact&theme=radical" alt="Ayoub's top languages"/>
+</p>
+s
