@@ -27,13 +27,20 @@
   <li>🎯 **Focus & Attention to Detail**</li>
 </ul>
 
+<h3 align="center">🎯 My Learning Goals</h3>
+<p align="center">
+  🔐 Dive deeper into **Cybersecurity** and **Penetration Testing**<br>
+  ⚙️ Master **Full-Stack Development** with **Node.js** and **MongoDB**<br>
+  📚 Learn more about **Cloud Technologies** and **AWS**
+</p>
+
 <p align="center">
   💻 All of my projects are available on my personal portfolio: [My Portfolio](https://ayoubbb1235.github.io/portfolio/)  
   📫 Reach me via email: **bezaiayoub05@gmail.com**  
   📄 Check my professional background and experience on [LinkedIn](https://www.linkedin.com/in/ayoub-bezai-b55315288/)
 </p>
 
-<h3 align="left">📱 Connect with me:</h3>
+<h3 align="center">📱 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -53,7 +60,6 @@
 </p>
 
 <h3 align="left">💻 Programming Languages & Tools:</h3>
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin-right: 20px"/>
@@ -69,66 +75,17 @@
   </a>
 </p>
 
-<h3 align="left">🔧 Frameworks & Libraries:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 20px"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 20px; filter: brightness(1.4);"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin-right: 20px"/>
-  </a>
-</p>
-
-<h3 align="left">⚙️ Tools & Technologies:</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="50" height="50" style="margin-right: 20px"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin-right: 20px"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50" style="margin-right: 20px"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50" style="margin-right: 20px; filter: brightness(1.5);"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin-right: 20px"/>
-  </a>
-</p>
-
-<h3 align="left">🖧 Networking:</h3>
-<p align="left">
-  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packet-tracer" width="50" height="50" style="margin-right: 20px"/>
-  </a>
-</p>
-
 <h3 align="left">🏅 Certifications:</h3>
 <ul>
   <li>🔐 **Cybersecurity Foundation Certification** from **Google Coursera**</li>
   <li>💻 **Cisco Certified Network Associate (CCNA)** (in progress)</li>
 </ul>
 
-<h3 align="left">📚 Online Courses:</h3>
+<h3 align="left">💼 Online Courses:</h3>
 <ul>
-  <li>🖥️ **The Web Developer Bootcamp 2024** from **Udemy** <br>
-    <img src="https://img-b.udemy.com/course/240x135/2216f84b-66bc-47c5-b4d2-4d5b615a050d.jpg" alt="Web Developer Bootcamp" width="150" height="100">
-  </li>
-  <li>🔐 **CompTIA Security+ (SY0-701) Complete Course & Exam** from **Udemy** <br>
-    <img src="https://img-b.udemy.com/course/240x135/510bc24a-09c0-4f82-89c0-c32011a8a902.jpg" alt="Security+" width="150" height="100">
-  </li>
-  <li>📡 **CCNA 200-301 Complete Course** by **JeremysITLab** on **YouTube** <br>
-    <img src="https://i.ytimg.com/vi/Rg5l7c44Jrw/maxresdefault.jpg" alt="CCNA" width="150" height="100">
-  </li>
-  <li>⚛️ **The Ultimate React Course 2024: React, Next.js, Redux & More** from **Udemy** <br>
-    <img src="https://img-b.udemy.com/course/240x135/951ec098-5e87-4a52-85d4-83942bb99b16.jpg" alt="React Course" width="150" height="100">
-  </li>
-  <li>🐍 **Python Full Course for free 🐍 (2024)** by **BroCode** on **YouTube** <br>
-    <img src="https://i.ytimg.com/vi/XPgrriP0tJo/maxresdefault.jpg" alt="Python Course" width="150" height="100">
-  </li>
+  <li>🔒 **The Web Developer Bootcamp 2024** from **Udemy**</li>
+  <li>🔐 **CompTIA Security+ (SY0-701) Complete Course & Exam** from **Udemy**</li>
+  <li>📡 **CCNA 200-301 Complete Course** by **JeremysITLab** on **YouTube**</li>
+  <li>⚛️ **The Ultimate React Course 2024: React, Next.js, Redux & More** from **Udemy**</li>
+  <li>🐍 **Python Full Course for free 🐍 (2024)** by **BroCode** on **YouTube**</li>
 </ul>
