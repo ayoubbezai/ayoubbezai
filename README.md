@@ -79,7 +79,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 20px"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 20px; filter: brightness(1.5);"/>
+    <!-- Updated Bootstrap logo with a brighter color -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 20px; filter: brightness(1.4);"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin-right: 20px"/>
@@ -88,6 +89,10 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <!-- Added VS Code logo -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="50" height="50" style="margin-right: 20px"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin-right: 20px"/>
   </a>
@@ -106,5 +111,9 @@
 <p align="left">
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packet-tracer" width="50" height="50" style="margin-right: 20px"/>
+  </a>
+  <!-- Added Tor logo -->
+  <a href="https://www.torproject.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Tor_logo_2019.svg" alt="tor" width="50" height="50" style="margin-right: 20px"/>
   </a>
 </p>
