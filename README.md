@@ -112,8 +112,8 @@
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packet-tracer" width="50" height="50" style="margin-right: 20px"/>
   </a>
-  <!-- Added Tor logo -->
+  <!-- Updated Tor logo -->
   <a href="https://www.torproject.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Tor_logo_2019.svg" alt="tor" width="50" height="50" style="margin-right: 20px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Tor_logo_2019.svg" alt="tor" width="50" height="50" style="margin-right: 20px"/>
   </a>
 </p>
