@@ -126,4 +126,15 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbb1235&langs_count=10&exclude_html_css=true&layout=compact&theme=radical" alt="Ayoub's top languages"/>
 </p>
-s
+
+
+
+
+<h3 align="center">🌍 Languages I Speak:</h3>
+<p align="center">
+  <ul>
+    <li>🇩🇿 **Arabic** (Native) 🗣️</li>
+    <li>🇫🇷 **French** (Basic) 🗣️</li>
+    <li>🇬🇧 **English** (B2 - Intermediate Plus) 🗣️</li>
+  </ul>
+</p>
