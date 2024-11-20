@@ -135,3 +135,30 @@
   <li>☁️ Learn more about **Cloud Technologies** and **AWS** ☁️</li>
 </ul>
 
+
+
+
+<h3 align="center">🔧 My Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubbb1235&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Ayoub's GitHub Stats" />
+</p>
+
+
+
+<p align="left">
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Cybersecurity Badge](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat&logo=google&logoColor=white)
+</p>
+
