@@ -128,10 +128,10 @@
   <li>🐍 **Python Full Course for free 🐍 (2024)** by **BroCode** on **YouTube**</li>
 </ul>
 
-<h3 align="center">🎯 My Learning Goals</h3>
-<p align="center">
-  🔐 Dive deeper into **Cybersecurity** and **Penetration Testing**  
-  ⚙️ Master **Full-Stack Development** with **Node.js** and **MongoDB**  
-  📚 Learn more about **Cloud Technologies** and **AWS**
-</p>
+<h3 align="left">🎯 My Learning Goals</h3>
+<ul>
+  <li>🔐 Dive deeper into **Cybersecurity** and **Penetration Testing** 🕵️‍♂️</li>
+  <li>⚙️ Master **Full-Stack Development** with **Node.js** 🟩 and **MongoDB** 🗃️</li>
+  <li>☁️ Learn more about **Cloud Technologies** and **AWS** ☁️</li>
+</ul>
 
