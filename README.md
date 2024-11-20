@@ -130,11 +130,3 @@
 
 
 
-<h3 align="center">🌍 Languages I Speak:</h3>
-<p align="center">
-  <ul>
-    <li>🇩🇿 **Arabic** (Native) 🗣️</li>
-    <li>🇫🇷 **French** (Basic) 🗣️</li>
-    <li>🇬🇧 **English** (B2 - Intermediate Plus) 🗣️</li>
-  </ul>
-</p>
