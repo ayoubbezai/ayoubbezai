@@ -116,8 +116,19 @@
 
 <h3 align="left">📚 Online Courses:</h3>
 <ul>
-  <li>🖥️ **The Web Developer Bootcamp 2024** from **Udemy**</li>
-  <li>🔐 **CompTIA Security+ SY0-601** from **Udemy**</li>
-  <li>⚛️ **The Ultimate React Course 2024: React, Next.js, Redux & More** from **Udemy**</li>
-  <li>🐍 **Python Full Course for free 🐍 (2024)** by **BroCode** on **YouTube**</li>
+  <li>🖥️ **The Web Developer Bootcamp 2024** from **Udemy** <br>
+    <img src="https://img-b.udemy.com/course/240x135/2216f84b-66bc-47c5-b4d2-4d5b615a050d.jpg" alt="Web Developer Bootcamp" width="150" height="100">
+  </li>
+  <li>🔐 **CompTIA Security+ (SY0-701) Complete Course & Exam** from **Udemy** <br>
+    <img src="https://img-b.udemy.com/course/240x135/510bc24a-09c0-4f82-89c0-c32011a8a902.jpg" alt="Security+" width="150" height="100">
+  </li>
+  <li>📡 **CCNA 200-301 Complete Course** by **JeremysITLab** on **YouTube** <br>
+    <img src="https://i.ytimg.com/vi/Rg5l7c44Jrw/maxresdefault.jpg" alt="CCNA" width="150" height="100">
+  </li>
+  <li>⚛️ **The Ultimate React Course 2024: React, Next.js, Redux & More** from **Udemy** <br>
+    <img src="https://img-b.udemy.com/course/240x135/951ec098-5e87-4a52-85d4-83942bb99b16.jpg" alt="React Course" width="150" height="100">
+  </li>
+  <li>🐍 **Python Full Course for free 🐍 (2024)** by **BroCode** on **YouTube** <br>
+    <img src="https://i.ytimg.com/vi/XPgrriP0tJo/maxresdefault.jpg" alt="Python Course" width="150" height="100">
+  </li>
 </ul>
