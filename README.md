@@ -29,7 +29,11 @@
   <li>🖌️ UI/UX Design (Figma, Adobe Illustrator, Photoshop)</li>
 </ul>
 
-- 🌱 I’m currently learning **⚛️ React.js , 🖧 Cisco CCNA**
+<p align="center">
+  🌱 I’m currently learning **⚛️ React.js , 🖧 Cisco CCNA**  
+  📄 I have a **Cyber Security Foundation Certification** from **Google Coursera** and am passionate about exploring more in this field.  
+  I’m eager to dive deeper into **Cyber Security** to enhance my knowledge and contribute to the security landscape of the tech world.
+</p>
 
 - 👨‍💻 All of my projects are available at [https://ayoubbb1235.github.io/portfolio/](https://ayoubbb1235.github.io/portfolio/)
 
@@ -55,7 +59,6 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-  <!-- Grouping Programming Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin-right: 20px"/>
   </a>
@@ -72,7 +75,6 @@
 
 <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
-  <!-- Grouping Frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 20px"/>
   </a>
@@ -86,7 +88,6 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <!-- Grouping Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin-right: 20px"/>
   </a>
@@ -103,7 +104,6 @@
 
 <h3 align="left">Networking:</h3>
 <p align="left">
-  <!-- Grouping Networking Tools -->
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packet-tracer" width="50" height="50" style="margin-right: 20px"/>
   </a>
