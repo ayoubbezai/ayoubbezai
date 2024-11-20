@@ -113,3 +113,11 @@
   <li>🔐 **Cybersecurity Foundation Certification** from **Google Coursera**</li>
   <li>💻 **Cisco Certified Network Associate (CCNA)** (in progress)</li>
 </ul>
+
+<h3 align="left">📚 Online Courses:</h3>
+<ul>
+  <li>🖥️ **The Web Developer Bootcamp 2024** from **Udemy**</li>
+  <li>🔐 **CompTIA Security+ SY0-601** from **Udemy**</li>
+  <li>⚛️ **The Ultimate React Course 2024: React, Next.js, Redux & More** from **Udemy**</li>
+  <li>🐍 **Python Full Course for free 🐍 (2024)** by **BroCode** on **YouTube**</li>
+</ul>
