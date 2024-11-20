@@ -144,10 +144,6 @@
 </p>
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat&logo=google&logoColor=white" alt="Cybersecurity Badge"/>
-</p>
+
 
 
