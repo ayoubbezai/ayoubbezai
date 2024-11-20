@@ -28,16 +28,16 @@
 </ul>
 
 <h3 align="center">🎯 My Learning Goals:</h3>
-<p align="center">
-  🔐 Dive deeper into **Cybersecurity** and **Penetration Testing**<br>
-  ⚙️ Master **Full-Stack Development** with **Node.js** and **MongoDB**<br>
-  📚 Learn more about **Cloud Technologies** and **AWS**
-</p>
+<ul>
+  <li>🔐 Dive deeper into **Cybersecurity** and **Penetration Testing** 🕵️‍♂️</li>
+  <li>⚙️ Master **Full-Stack Development** with **Node.js** 🟩 and **MongoDB** 🗃️</li>
+  <li>☁️ Learn more about **Cloud Technologies** and **AWS** ☁️</li>
+</ul>
 
 <p align="center">
-  💻 All of my projects are available on my personal portfolio: [My Portfolio](https://ayoubbb1235.github.io/portfolio/)  
-  📫 Reach me via email: **bezaiayoub05@gmail.com**  
-  📄 Check my professional background and experience on [LinkedIn](https://www.linkedin.com/in/ayoub-bezai-b55315288/)
+  💻 All of my projects are available on my personal portfolio: <a href="https://ayoubbb1235.github.io/portfolio/" target="_blank">My Portfolio</a>  
+  📫 Reach me via email: <a href="mailto:bezaiayoub05@gmail.com">bezaiayoub05@gmail.com</a>  
+  📄 Check my professional background and experience on <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="_blank">LinkedIn</a>
 </p>
 
 <h3 align="left">📱 Connect with me:</h3>
@@ -114,36 +114,7 @@
   </a>
 </p>
 
-<h3 align="left">🏅 Certifications:</h3>
-<ul>
-  <li>🔐 **Cybersecurity Foundation Certification** from **Google Coursera**</li>
-  <li>💻 **Cisco Certified Network Associate (CCNA)** (in progress)</li>
-</ul>
-
-<h3 align="left">📚 Online Courses:</h3>
-<ul>
-  <li>🖥️ **The Web Developer Bootcamp 2024** from **Udemy**</li>
-  <li>🔐 **CompTIA Security+ SY0-601** from **Udemy**</li>
-  <li>⚛️ **The Ultimate React Course 2024: React, Next.js, Redux & More** from **Udemy**</li>
-  <li>🐍 **Python Full Course for free 🐍 (2024)** by **BroCode** on **YouTube**</li>
-</ul>
-
-<h3 align="left">🎯 My Learning Goals</h3>
-<ul>
-  <li>🔐 Dive deeper into **Cybersecurity** and **Penetration Testing** 🕵️‍♂️</li>
-  <li>⚙️ Master **Full-Stack Development** with **Node.js** 🟩 and **MongoDB** 🗃️</li>
-  <li>☁️ Learn more about **Cloud Technologies** and **AWS** ☁️</li>
-</ul>
-
-
-
-
-
+<h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubbb1235&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Ayoub's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoubbb1235&show_icons=true&hide_border=true&hide=prs&theme=radical" alt="Ayoub's GitHub Stats"/>
 </p>
-
-
-
-
-
