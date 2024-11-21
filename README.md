@@ -116,7 +116,7 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AYOUBBB123&show_icons=true&hide_border=true&hide=prs&theme=radical" alt="Ayoub's GitHub Stats"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=AYOUBBB123&show_icons=true&hide_border=true&hide=prs&theme=radical" alt="Ayoub's GitHub Stats"/>
 </p>
 
 
