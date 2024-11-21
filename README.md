@@ -126,7 +126,7 @@
 
 <h3 align="center">📝 Languages I Use:</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBB123&langs_count=10&exclude_html_css=true&layout=compact&theme=radical" alt="Ayoub's top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBB123&langs_count=10&exclude_html_css=true&layout=compact&theme=radical&cache_seconds=1" alt="Ayoub's top languages"/>
 </p>
 
 
