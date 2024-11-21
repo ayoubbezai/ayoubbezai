@@ -116,7 +116,7 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoubbb1235&show_icons=true&hide_border=true&hide=prs&theme=radical" alt="Ayoub's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AYOUBBB123&show_icons=true&hide_border=true&hide=prs&theme=radical" alt="Ayoub's GitHub Stats"/>
 </p>
 
 
@@ -126,7 +126,7 @@
 
 <h3 align="center">📝 Languages I Use:</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbb1235&langs_count=10&exclude_html_css=true&layout=compact&theme=radical" alt="Ayoub's top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBB123&langs_count=10&exclude_html_css=true&layout=compact&theme=radical" alt="Ayoub's top languages"/>
 </p>
 
 
