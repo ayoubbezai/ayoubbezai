@@ -123,3 +123,25 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBB123&langs_count=10&exclude_html_css=true&layout=compact&theme=radical&cache_seconds=1" alt="Ayoub's top languages"/>
 </p>
+
+<h3 align="center">🚀 My Projects:</h3>
+
+<ul>
+  <li>
+    <strong><a href="https://ayoubbb1235.github.io/clinc/" target="_blank">Clinc</a></strong> 
+    - A web-based clinic appointment system built with HTML, CSS, and JavaScript. Allows users to schedule appointments with doctors and manage medical records.
+  </li>
+  <li>
+    <strong><a href="https://ayoubbb1235.github.io/portfolio/" target="_blank">Portfolio</a></strong> 
+    - A personal portfolio website showcasing my web development projects, skills, and experience. Built using HTML, CSS, and JavaScript.
+  </li>
+  <li>
+    <strong><a href="https://github.com/ayoubbb1235/todolist" target="_blank">ToDo List App</a></strong> 
+    - A simple task management application where users can add, edit, and delete tasks. Built with React.js.
+  </li>
+  <li>
+    <strong><a href="https://github.com/ayoubbb1235/portfolio" target="_blank">Personal Portfolio</a></strong>
+    - A minimalistic portfolio website built to display my skills, experience, and projects. Utilizes HTML, CSS, and JavaScript.
+  </li>
+</ul>
+
