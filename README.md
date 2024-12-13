@@ -268,9 +268,9 @@
 
 <table align="center" border="1" cellpadding="10" cellspacing="0" width="90%">
   <tr>
-    <th width="50%" align="left">Project Name</th>
-    <th width="20%" align="left">Link</th>
-    <th width="30%" align="left">Description</th>
+    <th width="25%" align="left">Project Name</th>
+    <th width="25%" align="left">Link</th>
+    <th width="50%" align="left">Description</th>
   </tr>
   <tr>
     <td><strong>Clinc 🏥</strong></td>
