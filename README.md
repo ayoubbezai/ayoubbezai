@@ -10,10 +10,10 @@
 
 <h4 align="left">🔧 Hard Skills:</h4>
 <ul>
-  <li>🌐 **Web Development** (HTML, CSS, JavaScript, React, TypeScript)</li>
+  <li>🌐 **Web Development** (HTML, CSS, JavaScript, React)</li>
   <li>🔧 **Version Control** (Git, GitHub)</li>
   <li>⚙️ **Algorithms & Data Structures**</li>
-  <li>🖧 **Networking** (CCNA, Packet Tracer, GNS3)</li>
+  <li>🖧 **Networking** (CCNA, Packet Tracer)</li>
   <li>🐍 **Python Programming**</li>
   <li>🖌️ **UI/UX Design** (Figma, Adobe Illustrator, Photoshop)</li>
 </ul>
@@ -115,8 +115,9 @@
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packet-tracer" width="50" height="50" style="margin-right: 20px"/>
   </a>
-  <a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gns3/gns3-icon.svg" alt="gns3" width="50" height="50" style="margin-right: 20px"/>
+  <!-- Wireshark -->
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Wireshark_logo_2023.svg" alt="wireshark" width="50" height="50" style="margin-right: 20px"/>
   </a>
 </p>
 
@@ -139,33 +140,34 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><strong>Clinc 🏥</strong></td>
+    <td><strong>Clinc</strong></td>
     <td><a href="https://ayoubbb1235.github.io/clinc/" target="_blank">View Project</a></td>
-    <td>A web-based clinic appointment system for scheduling appointments with doctors and managing medical records. Built with HTML, CSS, and JavaScript. 💻</td>
+    <td>A clinic appointment system for managing doctor appointments and medical records.</td>
   </tr>
   <tr>
-    <td><strong>GDGC 🌍</strong></td>
+    <td><strong>GDGC</strong></td>
     <td><a href="https://ayoubbb123.github.io/gdgc/" target="_blank">View Project</a></td>
-    <td>A landing page for the Google Developer Group Community (GDGC), showcasing the GDGC brand and events. 🔥</td>
+    <td>A landing page for Google Developer Group Community (GDGC) events.</td>
   </tr>
   <tr>
-    <td><strong>Tech-Educa 🎓</strong></td>
+    <td><strong>Tech-Educa</strong></td>
     <td><a href="https://ayoubbb123.github.io/Tech-Educa/index.html" target="_blank">View Project</a></td>
-    <td>An educational platform for technology courses, designed with a user-friendly interface to access various learning resources. 📚</td>
+    <td>An educational platform for technology courses with a user-friendly design.</td>
   </tr>
   <tr>
-    <td><strong>Calc-Average 🔢</strong></td>
+    <td><strong>Calc-Average</strong></td>
     <td><a href="https://ayoubbb123.github.io/calc-avrage/" target="_blank">View Project</a></td>
-    <td>A simple web application that calculates the average of a set of numbers entered by the user. Built with HTML, CSS, and JavaScript. ⚡</td>
+    <td>A web app to calculate averages of a set of numbers.</td>
   </tr>
   <tr>
-    <td><strong>Ping Pong 🎮</strong></td>
+    <td><strong>Ping Pong</strong></td>
     <td><a href="https://ayoubbb123.github.io/ping-pong/" target="_blank">View Project</a></td>
-    <td>A fun and interactive Ping Pong game built using JavaScript. It allows two players to play on the same screen. 🏓</td>
+    <td>An interactive Ping Pong game built using JavaScript.</td>
   </tr>
   <tr>
-    <td><strong>CCNA Labs 🖧</strong></td>
+    <td><strong>CCNA Labs</strong></td>
     <td><a href="https://github.com/AYOUBBB123/CCNA-labs" target="_blank">View Project</a></td>
-    <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation. 🌐</td>
+    <td>Various CCNA lab exercises for networking certification preparation.</td>
   </tr>
 </table>
+
