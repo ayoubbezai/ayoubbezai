@@ -124,24 +124,43 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBB123&langs_count=10&exclude_html_css=true&layout=compact&theme=radical&cache_seconds=1" alt="Ayoub's top languages"/>
 </p>
 
+
 <h3 align="center">🚀 My Projects:</h3>
 
-<ul>
-  <li>
-    <strong><a href="https://ayoubbb1235.github.io/clinc/" target="_blank">Clinc</a></strong> 
-    - A web-based clinic appointment system built with HTML, CSS, and JavaScript. Allows users to schedule appointments with doctors and manage medical records.
-  </li>
-  <li>
-    <strong><a href="https://ayoubbb1235.github.io/portfolio/" target="_blank">Portfolio</a></strong> 
-    - A personal portfolio website showcasing my web development projects, skills, and experience. Built using HTML, CSS, and JavaScript.
-  </li>
-  <li>
-    <strong><a href="https://github.com/ayoubbb1235/todolist" target="_blank">ToDo List App</a></strong> 
-    - A simple task management application where users can add, edit, and delete tasks. Built with React.js.
-  </li>
-  <li>
-    <strong><a href="https://github.com/ayoubbb1235/portfolio" target="_blank">Personal Portfolio</a></strong>
-    - A minimalistic portfolio website built to display my skills, experience, and projects. Utilizes HTML, CSS, and JavaScript.
-  </li>
-</ul>
-
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%; text-align: left;">
+  <tr>
+    <th>Project Name</th>
+    <th>Link</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><strong>Clinc</strong></td>
+    <td><a href="https://ayoubbb1235.github.io/clinc/" target="_blank">View Project</a></td>
+    <td>A web-based clinic appointment system for scheduling appointments with doctors and managing medical records. Built with HTML, CSS, and JavaScript.</td>
+  </tr>
+  <tr>
+    <td><strong>GDGC</strong></td>
+    <td><a href="https://ayoubbb123.github.io/gdgc/" target="_blank">View Project</a></td>
+    <td>A landing page for the Google Developer Group Community (GDGC), showcasing the GDGC brand and events.</td>
+  </tr>
+  <tr>
+    <td><strong>Tech-Educa</strong></td>
+    <td><a href="https://ayoubbb123.github.io/Tech-Educa/index.html" target="_blank">View Project</a></td>
+    <td>An educational platform for technology courses, designed with a user-friendly interface to access various learning resources.</td>
+  </tr>
+  <tr>
+    <td><strong>Calc-Average</strong></td>
+    <td><a href="https://ayoubbb123.github.io/calc-avrage/" target="_blank">View Project</a></td>
+    <td>A simple web application that calculates the average of a set of numbers entered by the user. Built with HTML, CSS, and JavaScript.</td>
+  </tr>
+  <tr>
+    <td><strong>Ping Pong</strong></td>
+    <td><a href="https://ayoubbb123.github.io/ping-pong/" target="_blank">View Project</a></td>
+    <td>A fun and interactive Ping Pong game built using JavaScript. It allows two players to play on the same screen.</td>
+  </tr>
+  <tr>
+    <td><strong>CCNA Labs</strong></td>
+    <td><a href="https://github.com/AYOUBBB123/CCNA-labs" target="_blank">View Project</a></td>
+    <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation.</td>
+  </tr>
+</table>
