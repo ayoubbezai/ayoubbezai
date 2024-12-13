@@ -268,7 +268,7 @@
 
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 90%; text-align: left;">
   <tr>
-    <th style="width: 55%;">Project Name</th>
+    <th style="width: 90%;">Project Name</th>
     <th style="width: 25%;">Link</th>
     <th style="width: 20%;">Description</th>
   </tr>
