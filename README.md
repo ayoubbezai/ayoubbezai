@@ -36,7 +36,7 @@
 </ul>
 
 <p align="center">
-  💻 All of my projects are available on my personal portfolio: <a href="https://ayoubbb1235.github.io/portfolio/" target="_blank">My Portfolio</a>  
+  💻 All of my projects are available on my personal portfolio: <a href="" target="_blank">My Portfolio</a>  
   📫 Reach me via email: <a href="mailto:bezaiayoub05@gmail.com">bezaiayoub05@gmail.com</a>  
   📄 Check my professional background and experience on <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="_blank">LinkedIn</a>
 </p>
