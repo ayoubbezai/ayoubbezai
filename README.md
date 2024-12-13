@@ -93,6 +93,12 @@
 
 <h3 align="left">⚙️ Tools & Technologies:</h3>
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin-right: 20px"/>
+  </a>
+  <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OpenTelemetry_logo.svg/500px-OpenTelemetry_logo.svg.png" alt="ots" width="50" height="50" style="margin-right: 20px"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="50" height="50" style="margin-right: 20px"/>
   </a>
@@ -105,9 +111,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50" style="margin-right: 20px; filter: brightness(1.5); color: purple;"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin-right: 20px"/>
-  </a>
 </p>
 
 <h3 align="left">🖧 Networking:</h3>
@@ -117,6 +120,9 @@
   </a>
   <a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gns3/gns3-icon.svg" alt="gns3" width="50" height="50" style="margin-right: 20px"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="50" height="50" style="margin-right: 20px"/>
   </a>
 </p>
 
