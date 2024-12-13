@@ -115,9 +115,7 @@
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packet-tracer" width="50" height="50" style="margin-right: 20px"/>
   </a>
-  <a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gns3/gns3-icon.svg" alt="gns3" width="50" height="50" style="margin-right: 20px"/>
-  </a>
+  
 </p>
 
 <h3 align="center">📈 GitHub Stats</h3>
