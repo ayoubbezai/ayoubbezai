@@ -264,33 +264,13 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBB123&langs_count=10&exclude_html_css=true&layout=compact&theme=radical&cache_seconds=1" alt="Ayoub's top languages"/>
 </p>
-
 <h3 align="center">🚀 My Projects:</h3>
 
-<!-- Table with custom CSS -->
-<style>
-  table {
-    width: 90%;
-    margin: 0 auto;
-    border-collapse: collapse;
-  }
-  th, td {
-    padding: 10px;
-    text-align: left;
-  }
-  th {
-    width: 40%;
-  }
-  td {
-    width: 25%;
-  }
-</style>
-
-<table>
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 90%; text-align: left;">
   <tr>
-    <th>Project Name</th>
-    <th>Link</th>
-    <th>Description</th>
+    <th style="width: 55%;">Project Name</th>
+    <th style="width: 25%;">Link</th>
+    <th style="width: 20%;">Description</th>
   </tr>
   <tr>
     <td><strong>Clinc 🏥</strong></td>
@@ -300,7 +280,7 @@
   <tr>
     <td><strong>GDGC 🌍</strong></td>
     <td><a href="https://ayoubbb123.github.io/gdgc/" target="_blank">View Project</a></td>
-    <td>Forming the Google Developer Group Community (GDGC) workshop 🔥</td>
+    <td>Form the Google Developer Group Community (GDGC) workshop 🔥</td>
   </tr>
   <tr>
     <td><strong>Tech-Educa 🎓</strong></td>
@@ -323,3 +303,4 @@
     <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation. 🌐</td>
   </tr>
 </table>
+
