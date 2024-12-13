@@ -84,7 +84,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 20px"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 20px; filter: brightness(1.4);"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 20px; filter: brightness(1.4); color: purple;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin-right: 20px"/>
@@ -103,7 +103,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50" style="margin-right: 20px"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50" style="margin-right: 20px; filter: brightness(1.5);"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50" style="margin-right: 20px; filter: brightness(1.5); color: purple;"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin-right: 20px"/>
@@ -115,7 +115,9 @@
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="packet-tracer" width="50" height="50" style="margin-right: 20px"/>
   </a>
-  
+  <a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gns3/gns3-icon.svg" alt="gns3" width="50" height="50" style="margin-right: 20px"/>
+  </a>
 </p>
 
 <h3 align="center">📈 GitHub Stats</h3>
@@ -130,11 +132,11 @@
 
 <h3 align="center">🚀 My Projects:</h3>
 
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%; text-align: left;">
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 90%; text-align: left;">
   <tr>
-    <th>Project Name</th>
-    <th>Link</th>
-    <th>Description</th>
+    <th style="width: 50%;">Project Name</th>
+    <th style="width: 20%;">Link</th>
+    <th style="width: 30%;">Description</th>
   </tr>
   <tr>
     <td><strong>Clinc 🏥</strong></td>
