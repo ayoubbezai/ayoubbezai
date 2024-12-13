@@ -84,15 +84,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 20px"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <!-- Updated to a bright colored icon from Bootstrap CDN -->
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.svg#circle" alt="bootstrap" width="50" height="50" style="margin-right: 20px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 20px"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin-right: 20px"/>
   </a>
 </p>
-
-
 
 <h3 align="left">⚙️ Tools & Technologies:</h3>
 <p align="left">
@@ -137,39 +134,58 @@
 
 <h3 align="center">🚀 My Projects:</h3>
 
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 90%; text-align: left;">
+<!-- Table with custom CSS -->
+<style>
+  table {
+    width: 90%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    width: 40%;
+  }
+  td {
+    width: 25%;
+  }
+</style>
+
+<table>
   <tr>
-    <th style="width: 50%;">Project Name</th>
-    <th style="width: 20%;">Link</th>
-    <th style="width: 30%;">Description</th>
+    <th>Project Name</th>
+    <th>Link</th>
+    <th>Description</th>
   </tr>
   <tr>
-    <td><strong>Clinc 🏥    </strong></td>
+    <td><strong>Clinc 🏥</strong></td>
     <td><a href="https://ayoubbb1235.github.io/clinc/" target="_blank">View Project</a></td>
     <td>A web-based clinic appointment system for scheduling appointments with doctors and managing medical records. Built with HTML, CSS, and JavaScript. 💻</td>
   </tr>
   <tr>
-    <td><strong>GDGC 🌍    </strong></td>
+    <td><strong>GDGC 🌍</strong></td>
     <td><a href="https://ayoubbb123.github.io/gdgc/" target="_blank">View Project</a></td>
-    <td>form the Google Developer Group Community (GDGC) workshop 🔥</td>
+    <td>Forming the Google Developer Group Community (GDGC) workshop 🔥</td>
   </tr>
   <tr>
-    <td><strong>Tech-Educa 🎓    </strong></td>
+    <td><strong>Tech-Educa 🎓</strong></td>
     <td><a href="https://ayoubbb123.github.io/Tech-Educa/index.html" target="_blank">View Project</a></td>
     <td>An educational platform for technology courses, designed with a user-friendly interface to access various learning resources. 📚</td>
   </tr>
   <tr>
-    <td><strong>Calc-Average 🔢    </strong></td>
+    <td><strong>Calc-Average 🔢</strong></td>
     <td><a href="https://ayoubbb123.github.io/calc-avrage/" target="_blank">View Project</a></td>
     <td>A simple web application that calculates the average of a set of numbers entered by the user. Built with HTML, CSS, and JavaScript. ⚡</td>
   </tr>
   <tr>
-    <td><strong>Ping Pong 🎮    </strong></td>
+    <td><strong>Ping Pong 🎮</strong></td>
     <td><a href="https://ayoubbb123.github.io/ping-pong/" target="_blank">View Project</a></td>
     <td>A fun and interactive Ping Pong game built using JavaScript. It allows two players to play on the same screen. 🏓</td>
   </tr>
   <tr>
-    <td><strong>CCNA Labs 🖧    </strong></td>
+    <td><strong>CCNA Labs 🖧</strong></td>
     <td><a href="https://github.com/AYOUBBB123/CCNA-labs" target="_blank">View Project</a></td>
     <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation. 🌐</td>
   </tr>
