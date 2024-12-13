@@ -36,7 +36,7 @@
 </ul>
 
 <p align="center">
-  💻 All of my projects are available on my personal portfolio: <a href="" target="_blank">My Portfolio</a>  
+  💻 All of my projects are available on my personal portfolio: <a href="https://ayoubbb1235.github.io/PORTFOLIO-/" target="_blank">My Portfolio</a>  
   📫 Reach me via email: <a href="mailto:bezaiayoub05@gmail.com">bezaiayoub05@gmail.com</a>  
   📄 Check my professional background and experience on <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="_blank">LinkedIn</a>
 </p>
@@ -169,5 +169,15 @@
     <td><strong>CCNA Labs 🖧</strong></td>
     <td><a href="https://github.com/AYOUBBB123/CCNA-labs" target="_blank">View Project</a></td>
     <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation. 🌐</td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio 🌐</strong></td>
+    <td><a href="https://ayoubbb1235.github.io/PORTFOLIO-/" target="_blank">View Project</a></td>
+    <td>My personal portfolio showcasing my projects, skills, and professional details. ✨</td>
+  </tr>
+  <tr>
+    <td><strong>Univ-Course 📚</strong></td>
+    <td><a href="https://ayoubbb1235.github.io/univ-course/" target="_blank">View Project</a></td>
+    <td>A university course management platform designed to assist students with course materials and organization. 🎓</td>
   </tr>
 </table>
