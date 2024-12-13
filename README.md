@@ -163,7 +163,7 @@
   <tr>
     <td><strong>Ping Pong 🎮</strong></td>
     <td><a href="https://ayoubbb123.github.io/ping-pong/" target="_blank">View Project</a></td>
-    <td>A fun and interactive Ping Pong game built using JavaScript. It allows two players to play on the same screen. 🏓</td>
+    <td>A fun and interactive Ping Pong game built using TypeScript. It allows two players to play on the same screen. 🏓</td>
   </tr>
   <tr>
     <td><strong>CCNA Labs 🖧</strong></td>
