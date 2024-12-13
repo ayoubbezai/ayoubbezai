@@ -84,6 +84,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 20px"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <!-- Updated to a bright colored icon from Bootstrap CDN -->
+    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.svg#circle" alt="bootstrap" width="50" height="50" style="margin-right: 20px"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin-right: 20px"/>
+  </a>
+</p>
+
+
+<h3 align="left">🔧 Frameworks & Libraries:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 20px"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 20px; filter: brightness(1.4); color: purple;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
