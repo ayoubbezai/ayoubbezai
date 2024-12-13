@@ -266,11 +266,11 @@
 </p>
 <h3 align="center">🚀 My Projects:</h3>
 
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 90%; text-align: left;">
+<table align="center" border="1" cellpadding="10" cellspacing="0" width="90%">
   <tr>
-    <th style="width: 90%;">Project Name</th>
-    <th style="width: 25%;">Link</th>
-    <th style="width: 20%;">Description</th>
+    <th width="50%" align="left">Project Name</th>
+    <th width="20%" align="left">Link</th>
+    <th width="30%" align="left">Description</th>
   </tr>
   <tr>
     <td><strong>Clinc 🏥</strong></td>
@@ -303,4 +303,3 @@
     <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation. 🌐</td>
   </tr>
 </table>
-
