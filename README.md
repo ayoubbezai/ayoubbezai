@@ -176,7 +176,6 @@
     <td><a href="https://ayoubbb1235.github.io/univ-course/" target="_blank">View Project</a></td>
     <td>A university course management platform designed to assist students with course materials and organization. 🎓</td>
   </tr>
-
     <tr>
     <td><strong>CCNA Labs 🖧</strong></td>
     <td><a href="https://github.com/AYOUBBB123/CCNA-labs" target="_blank">View Project</a></td>
