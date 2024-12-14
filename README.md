@@ -132,6 +132,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBB123&langs_count=10&exclude_html_css=true&layout=compact&theme=radical&cache_seconds=1" alt="Ayoub's top languages"/>
 </p>
+
 <h3 align="center">🚀 My Projects:</h3>
 
 <table align="center" border="1" cellpadding="10" cellspacing="0" width="90%">
@@ -170,16 +171,20 @@
     <td><a href="https://ayoubbb123.github.io/ping-pong/" target="_blank">View Project</a></td>
     <td>A fun and interactive Ping Pong game built using TypeScript. It allows two players to play on the same screen. 🏓</td>
   </tr>
-
   <tr>
     <td><strong>Univ-Course 📚</strong></td>
     <td><a href="https://ayoubbb1235.github.io/univ-course/" target="_blank">View Project</a></td>
     <td>A university course management platform designed to assist students with course materials and organization. 🎓</td>
   </tr>
-    <tr>
+  <tr>
+    <td><strong>Food Recipes 🍲</strong></td>
+    <td><a href="https://ayoubbb123.github.io/food-recipes/" target="_blank">View Project</a></td>
+    <td>A recipe app built with HTML, CSS, and JavaScript using the Forkify API to display various recipes and cooking instructions. 🥗</td>
+  </tr>
+  <tr>
     <td><strong>CCNA Labs 🖧</strong></td>
     <td><a href="https://github.com/AYOUBBB123/CCNA-labs" target="_blank">View Project</a></td>
     <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation. 🌐</td>
   </tr>
-  
 </table>
+
