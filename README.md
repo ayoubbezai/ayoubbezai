@@ -140,6 +140,11 @@
     <th width="20%" align="left">Link</th>
     <th width="60%" align="left">Description</th>
   </tr>
+    <tr>
+    <td><strong>Portfolio 🌐</strong></td>
+    <td><a href="https://ayoubbb1235.github.io/PORTFOLIO-/" target="_blank">View Project</a></td>
+    <td>My personal portfolio showcasing my projects, skills, and professional details. ✨</td>
+  </tr>
   <tr>
     <td><strong>Clinc 🏥</strong></td>
     <td><a href="https://ayoub-bezai.github.io/clinc/" target="_blank">View Project</a></td>
@@ -152,7 +157,7 @@
   </tr>
   <tr>
     <td><strong>Tech-Educa 🎓</strong></td>
-    <td><a href="https://ayoubbb123.github.io/Tech-Educa/index.html" target="_blank">View Project</a></td>
+    <td><a href="https://ayoubbb1235.github.io/Tech-Educa/" target="_blank">View Project</a></td>
     <td>An educational platform for technology courses, designed with a user-friendly interface to access various learning resources. 📚</td>
   </tr>
   <tr>
@@ -165,19 +170,17 @@
     <td><a href="https://ayoubbb123.github.io/ping-pong/" target="_blank">View Project</a></td>
     <td>A fun and interactive Ping Pong game built using TypeScript. It allows two players to play on the same screen. 🏓</td>
   </tr>
-  <tr>
-    <td><strong>CCNA Labs 🖧</strong></td>
-    <td><a href="https://github.com/AYOUBBB123/CCNA-labs" target="_blank">View Project</a></td>
-    <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation. 🌐</td>
-  </tr>
-  <tr>
-    <td><strong>Portfolio 🌐</strong></td>
-    <td><a href="https://ayoubbb1235.github.io/PORTFOLIO-/" target="_blank">View Project</a></td>
-    <td>My personal portfolio showcasing my projects, skills, and professional details. ✨</td>
-  </tr>
+
   <tr>
     <td><strong>Univ-Course 📚</strong></td>
     <td><a href="https://ayoubbb1235.github.io/univ-course/" target="_blank">View Project</a></td>
     <td>A university course management platform designed to assist students with course materials and organization. 🎓</td>
   </tr>
+
+    <tr>
+    <td><strong>CCNA Labs 🖧</strong></td>
+    <td><a href="https://github.com/AYOUBBB123/CCNA-labs" target="_blank">View Project</a></td>
+    <td>A GitHub repository containing various CCNA lab exercises, designed to help with networking certification preparation. 🌐</td>
+  </tr>
+  
 </table>
