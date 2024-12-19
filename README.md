@@ -153,7 +153,7 @@
   </tr>
   <tr>
     <td><strong>GDGC 🌍</strong></td>
-    <td><a href="https://ayoubbb123.github.io/gdgc/" target="_blank">View Project</a></td>
+    <td><a href="https://ayoubbezai.github.io/gdgc/" target="_blank">View Project</a></td>
     <td>Form the Google Developer Group Community (GDGC) workshop 🔥</td>
   </tr>
   <tr>
@@ -163,12 +163,12 @@
   </tr>
   <tr>
     <td><strong>Calc-Average 🔢</strong></td>
-    <td><a href="https://ayoubbb123.github.io/calc-avrage/" target="_blank">View Project</a></td>
+    <td><a href="https://ayoubbezai.github.io/calc-avrage/" target="_blank">View Project</a></td>
     <td>A simple web application that calculates the average of a set of numbers entered by the user. Built with HTML, CSS, and JavaScript. ⚡</td>
   </tr>
   <tr>
     <td><strong>Ping Pong 🎮</strong></td>
-    <td><a href="https://ayoubbb123.github.io/ping-pong/" target="_blank">View Project</a></td>
+    <td><a href="https://ayoubbezai.github.io/ping-pong/" target="_blank">View Project</a></td>
     <td>A fun and interactive Ping Pong game built using TypeScript. It allows two players to play on the same screen. 🏓</td>
   </tr>
   <tr>
@@ -178,7 +178,7 @@
   </tr>
   <tr>
     <td><strong>Food Recipes 🍲</strong></td>
-    <td><a href="https://ayoubbb123.github.io/food-recipes/" target="_blank">View Project</a></td>
+    <td><a href="https://ayoubbezai.github.io/food-recipes/" target="_blank">View Project</a></td>
     <td>A recipe app built with HTML, CSS, and JavaScript using the Forkify API to display various recipes and cooking instructions. 🥗</td>
   </tr>
   <tr>
