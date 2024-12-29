@@ -148,7 +148,7 @@
   </tr>
   <tr>
     <td><strong>Clinc 🏥</strong></td>
-    <td><a href="https://ayoub-bezai.github.io/clinc/" target="_blank">View Project</a></td>
+    <td><a href="https://ayoubbb1235.github.io/clinc/" target="_blank">View Project</a></td>
     <td>A web-based clinic appointment system for scheduling appointments with doctors and managing medical records. Built with HTML, CSS, and JavaScript. 💻</td>
   </tr>
   <tr>
