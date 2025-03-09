@@ -15,11 +15,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="50" height="50" style="margin-right: 10px"/>
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right: 10px"/>
 
@@ -37,19 +37,19 @@
 
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank">
+  <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/your-github-username" target="blank">
+  <a href="https://github.com/ayoubbb1235" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile/" target="blank">
+  <a href="https://www.instagram.com/ayoubbezai/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://mastodon.social/@your-mastodon-profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastodon.svg" alt="Mastodon" height="30" width="40" />
+  <a href="https://mostaql.com/u/ayoubbezai" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mostaql_logo.png" alt="Mostaql" height="30" width="40" />
   </a>
-  <a href="https://your-portfolio-link.com" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="30" width="40" />
+  <a href="https://ayoubbezai.dev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Website_logo.svg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
