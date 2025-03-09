@@ -37,13 +37,19 @@
 
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/ayoubbb1235" target="blank">
+  <a href="https://github.com/your-github-username" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/ayoubbezai/" target="blank">
+  <a href="https://www.instagram.com/your-instagram-profile/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://mastodon.social/@your-mastodon-profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastodon.svg" alt="Mastodon" height="30" width="40" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
