@@ -4,14 +4,8 @@
 </h3>
 
 <p align="center">
-  🚀 Currently diving into **⚛️ React.js** for frontend development, **🔥 Firebase** for backend services, and **🖧 Laravel** for building robust web applications.  
-  🎓 I also hold a **Cybersecurity Foundation Certification** from **Google Coursera** and am eager to dive deeper into this field.
-</p>
-
-<p align="center">
-  🌍 I am a second-year **Computer Science Engineering** student with hands-on experience in front-end development, specializing in **React.js, TypeScript, and Firebase**.  
-  💡 Actively engaged in tech communities such as **GDG, GDGC, and Nexus Security Club**, I am proficient in cybersecurity fundamentals and digital security.  
-  🔒 Driven by a strong passion, I am committed to continuously advancing my knowledge and career in **cybersecurity**.  
+  🚀 I am a second-year **Computer Science Engineering** student with hands-on experience in front-end development, specializing in **React.js, TypeScript, and Firebase**. I am also proficient in **Laravel** and **Firebase** for backend development.  
+  🎓 I hold a **Cybersecurity Foundation Certification** from **Google Coursera** and am actively engaged in tech communities such as **GDG, GDGC, and Nexus Security Club**. Passionate about **digital security**, I am committed to continuously advancing my knowledge and career in **cybersecurity**.  
   🔗 Check out my portfolio: <a href="https://www.ayoubbezai.site/" target="_blank">ayoubbezai.site</a>
 </p>
 
