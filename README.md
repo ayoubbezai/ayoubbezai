@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ayoub Bezai</h1>
-<h3 align="center">A passionate Full Stack Developer from Algeria, a Computer Science student, and a Cybersecurity Enthusiast.</h3>
+<h3 align="center">
+  A passionate Full Stack Developer from Algeria, a Computer Science student, and a Cybersecurity Enthusiast.
+</h3>
 
 <p align="center">
   🚀 Currently diving into **⚛️ React.js** for frontend development, **🔥 Firebase** for backend services, and **🖧 Laravel** for building robust web applications.  
   🎓 I also hold a **Cybersecurity Foundation Certification** from **Google Coursera** and am eager to dive deeper into this field.
+</p>
+
+<p align="center">
+  🌍 I am a second-year **Computer Science Engineering** student with hands-on experience in front-end development, specializing in **React.js, TypeScript, and Firebase**.  
+  💡 Actively engaged in tech communities such as **GDG, GDGC, and Nexus Security Club**, I am proficient in cybersecurity fundamentals and digital security.  
+  🔒 Driven by a strong passion, I am committed to continuously advancing my knowledge and career in **cybersecurity**.  
+  🔗 Check out my portfolio: <a href="https://www.ayoubbezai.site/" target="_blank">ayoubbezai.site</a>
 </p>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -46,10 +55,5 @@
   <a href="https://www.instagram.com/ayoubbezai/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://mostaql.com/u/ayoubbezai" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mostaql_logo.png" alt="Mostaql" height="30" width="40" />
-  </a>
-  <a href="https://ayoubbezai.dev" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Website_logo.svg" alt="Portfolio" height="30" width="40" />
-  </a>
 </p>
+
