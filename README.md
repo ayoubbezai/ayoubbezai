@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Ayoub Bezai</h1>
-<h3 align="center">A passionate Frontend Developer from Algeria, a Computer Science student, and a Cybersecurity Enthusiast.</h3>
+<h3 align="center">A passionate Full Stack Developer from Algeria, a Computer Science student, and a Cybersecurity Enthusiast.</h3>
 
 <p align="center">
-  🚀 Currently diving into **⚛️ React.js** for frontend development and working on my **🖧 Cisco CCNA** to build expertise in networking.  
+  🚀 Currently diving into **⚛️ React.js** for frontend development, **🔥 Firebase** for backend services, and **🖧 Laravel** for building robust web applications.  
   🎓 I also hold a **Cybersecurity Foundation Certification** from **Google Coursera** and am eager to dive deeper into this field.
 </p>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
+  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" style="margin-right: 10px"/>
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right: 10px"/>
+
+  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="margin-right: 10px"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin-right: 10px"/>
 </p>
 
