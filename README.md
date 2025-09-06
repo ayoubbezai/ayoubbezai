@@ -1,58 +1,56 @@
-<!-- Header with animated typing effect and gradient text -->
+<!-- Animated Header Section -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=4500&pause=1000&color=6E40C9&center=true&vCenter=true&width=550&height=60&lines=👋+Hello+World!;I'm+Ayoub+Bezai;Full+Stack+Developer;CS+Student;Cybersecurity+Enthusiast)
-  
-  <img src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/main/wave.svg" width="30px" style="max-width: 100%;">
-  
-</div>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=👋+Hello+World!;I'm+Ayoub+Bezai;Full+Stack+Developer;CS+Student;Cybersecurity+Enthusiast)
 
-<!-- Profile badges with custom icons -->
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.ayoubbezai.site/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-bezai-b55315288/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayoubbb1235)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayoubbezai/)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  
-</div>
-
-<!-- GitHub stats with custom layout -->
-<div align="center">
-  
-  | <img src="https://github-readme-stats.vercel.app/api?username=ayoubbezai&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&bg_color=00000000" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbezai&theme=radical&hide_border=true&background=00000000" /> |
-  | :--- | :--- |
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbezai&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css" /> | <img src="https://github-profile-trophy.vercel.app/?username=ayoubbezai&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" /> |
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=header&text=Ayoub+Bezai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
-<!-- Animated divider -->
-<br />
+<!-- Profile Stats Cards -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/main/divider.gif" width="100%">
-</div>
-<br />
+  
+  | <a href="https://github.com/ayoubbezai"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ayoubbezai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=6E40C9&icon_color=F8D866" alt="Ayoub's GitHub stats" /></a> | <a href="https://github.com/ayoubbezai"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ayoubbezai&theme=react&hide_border=true&bg_color=1F222E&title_color=6E40C9&layout=compact" /></a> |
+  | ------------- | ------------- |
 
-<!-- About Me section with icons -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayoubbezai&theme=react&hide_border=true&background=1F222E&stroke=6E40C9&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9)
+
+</div>
+
+<!-- Navigation Links -->
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&link=https://portfolio.ayoubbezai.site/)](https://portfolio.ayoubbezai.site/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayoub-bezai-b55315288/)](https://www.linkedin.com/in/ayoub-bezai-b55315288/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ayoubbb1235)](https://github.com/ayoubbb1235)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ayoubbezai/)](https://www.instagram.com/ayoubbezai/)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your-email@example.com)](mailto:your-email@example.com)
+
+</div>
+
+<!-- About Me Section -->
 ## 🚀 About Me
 
-<p align="justify">
-  <img src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/main/rocket.gif" width="25" style="vertical-align: middle;"> 
-  I'm a second-year <strong>Computer Science Engineering</strong> student from Algeria, passionate about building clean, modern web applications. I specialize in <strong>frontend development</strong> with React.js, TypeScript, and Tailwind CSS, and <strong>backend development</strong> using Firebase, PHP, and Laravel.
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" style="vertical-align: middle;"> 
+  I'm a second-year <strong>Computer Science Engineering</strong> student from Algeria, passionate about building clean, modern web applications.
 </p>
 
-<p align="justify">
-  <img src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/main/graduation.gif" width="25" style="vertical-align: middle;">
-  🎓 Certified in <strong>Cybersecurity Foundations</strong> by Google on Coursera and actively involved in communities like <strong>GDG, GDGC, and Nexus Security Club</strong>.
+<p align="center">
+  <strong>Frontend Development:</strong> React.js, TypeScript, and Tailwind CSS
+  <br>
+  <strong>Backend Development:</strong> Firebase, PHP, and Laravel
 </p>
 
-<p align="justify">
-  <img src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/main/heart.gif" width="25" style="vertical-align: middle;">
-  💻 Always exploring new technologies and passionate about digital security.
+<p align="center">
+  🎓 Certified in <strong>Cybersecurity Foundations</strong> by Google on Coursera
+  <br>
+  👥 Actively involved in communities like <strong>GDG, GDGC, and Nexus Security Club</strong>
+  <br>
+  🔐 Passionate about digital security and exploring new technologies
 </p>
 
-<!-- Tech Stack with animated icons -->
+<!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
 ### Frontend Development
@@ -79,72 +77,43 @@
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubbezai&theme=react-dark&hide_border=true&area=true&height=300&custom_title=My%20Contribution%20Graph)
-  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubbezai&theme=react-dark&hide_border=true&area=true&height=300&custom_title=My%20Contribution%20Graph&bg_color=1F222E&color=FFFFFF&line=6E40C9&point=FFFFFF)
+
 </div>
 
-<!-- Snake animation for contributions -->
+<!-- Snake Animation -->
 <div align="center">
   
   ![Snake animation](https://github.com/ayoubbezai/ayoubbezai/blob/output/github-contribution-grid-snake.svg)
-  
+
 </div>
 
-<!-- Projects section with tables -->
+<!-- Projects Section -->
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Portfolio Website](https://portfolio.ayoubbezai.site/)** | My personal portfolio website showcasing my projects and skills | React, Tailwind CSS, Firebase |
-| **E-commerce Platform** | Full-stack e-commerce solution with payment integration | Laravel, MySQL, JavaScript |
-| **Task Management App** | Collaborative task management tool with real-time updates | React, TypeScript, Firebase |
-
-<!-- Coding stats with WakaTime -->
-## 💻 Coding Time
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1,234%20hrs%2033%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
-<!--END_SECTION:waka-->
-
-<!-- GitHub trophies -->
-## 🏆 GitHub Trophies
-
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ayoubbezai&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://portfolio.ayoubbezai.site/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=portfolio&theme=react&bg_color=1F222E&title_color=6E40C9&icon_color=F8D866&hide_border=true" />
+  </a>
   
+  <a href="https://github.com/ayoubbezai/ecommerce-platform">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=ecommerce-platform&theme=react&bg_color=1F222E&title_color=6E40C9&icon_color=F8D866&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/ayoubbezai/task-management-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=task-management-app&theme=react&bg_color=1F222E&title_color=6E40C9&icon_color=F8D866&hide_border=true" />
+  </a>
+
 </div>
 
-<!-- Contact section -->
-## 📫 Let's Connect
+<!-- Coding Stats -->
+## 💻 Weekly Development Breakdown
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ayoubbb1235" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/ayoubbezai/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<!-- Visitor counter and footer -->
----
-
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=ayoubbezai&label=Profile%20Views&color=6E40C9&style=flat)
-  
-  <a href="https://github.com/ayoubbezai?tab=followers">
-    <img src="https://img.shields.io/github/followers/ayoubbezai?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  
-  <img src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/main/footer.gif" width="100%">
-  
-</div>
+```text
+TypeScript   ████████████████████░░░░   80.0% 
+JavaScript   ██████████░░░░░░░░░░░░░░   40.0% 
+PHP          █████████████░░░░░░░░░░░   65.0% 
+HTML         ████████░░░░░░░░░░░░░░░░   32.0% 
+CSS          ██████████░░░░░░░░░░░░░░   40.0% 
+Other        █████░░░░░░░░░░░░░░░░░░░   20.0%
