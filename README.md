@@ -1,62 +1,107 @@
-<h1 align="center">Hi 👋, I'm Ayoub Bezai</h1>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayoub+Bezai;Full+Stack+Developer;CS+Student;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
   Full Stack Developer • Computer Science Student • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
-  🚀 I'm a second-year <strong>Computer Science Engineering</strong> student from Algeria, passionate about building clean, modern web apps. I specialize in <strong>frontend development</strong> with <em>React.js, TypeScript, and Tailwind CSS</em>, and <strong>backend development</strong> using <em>Firebase, PHP, and Laravel</em>.<br><br>
-  🎓 I’m certified in <strong>Cybersecurity Foundations</strong> by <em>Google on Coursera</em> and actively involved in communities like <strong>GDG, GDGC, and Nexus Security Club</strong>.<br><br>
-  💻 Always exploring new technologies and passionate about digital security.<br><br>
-  🔗 <strong>Portfolio:</strong> <a href="https://portfolio.ayoubbezai.site/" target="_blank">ayoubbezai.site</a>
+  <a href="https://portfolio.ayoubbezai.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/ayoubbezai/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubbezai&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
+</div>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+## 🚀 About Me
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50"/>
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+  I'm a second-year <strong>Computer Science Engineering</strong> student from Algeria, passionate about building clean, modern web applications. I specialize in <strong>frontend development</strong> with <em>React.js, TypeScript, and Tailwind CSS</em>, and <strong>backend development</strong> using <em>Firebase, PHP, and Laravel</em>.
+  <br><br>
+  🎓 Certified in <strong>Cybersecurity Foundations</strong> by <em>Google on Coursera</em>
+  <br>
+  👥 Actively involved in communities like <strong>GDG, GDGC, and Nexus Security Club</strong>
+  <br>
+  🔐 Passionate about digital security and exploring new technologies
 </p>
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Tools & Others
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoubbezai&show_icons=true&hide_border=true&hide=prs&theme=radical&count_private=true&include_all_commits=true" alt="Ayoub's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbezai&langs_count=8&exclude_repo=github-readme-stats,ayoubbezai&hide=html,css&layout=compact&theme=radical&hide_border=true" alt="Ayoub's Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbezai&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ayoubbezai&show_icons=true&hide_border=true&hide=prs&theme=radical" alt="Ayoub's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbezai&langs_count=10&exclude_html_css=true&layout=compact&theme=radical&cache_seconds=3600" alt="Ayoub's Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoubbezai&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h3 align="center">📫 Let's Connect</h3>
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ayoubbb1235" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/ayoubbezai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayoubbezai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
