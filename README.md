@@ -110,19 +110,6 @@
   
 </div>
 
-<!-- PROJECTS SHOWCASE -->
-## 🚀 Featured Projects
-
-<div align="center">
-  
-  | Project | Description | Tech Stack |
-  |---------|-------------|------------|
-  | **[E-Commerce Platform](https://github.com/ayoubbezai/ecommerce)** | Full-stack e-commerce solution with admin dashboard | React, Node.js, MongoDB |
-  | **[Task Management App](https://github.com/ayoubbezai/taskmanager)** | Collaborative task management application | Next.js, Firebase, Tailwind |
-  | **[Portfolio Website](https://portfolio.ayoubbezai.site)** | Personal portfolio showcasing my projects | React, Framer Motion, CSS3 |
-  
-</div>
-
 <!-- ACTIVITY GRAPH -->
 ## 📊 Development Analytics
 
