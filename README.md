@@ -1,468 +1,202 @@
 <div align="center">
 
-<!-- Cyberpunk Style Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=AYOUB%20BEZAI&fontColor=00ff41&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%3C%2F%3E%20ARCHITECTING%20THE%20DIGITAL%20FUTURE&descAlignY=75&descAlign=50&descSize=20"/>
-
-<!-- Glitch Effect Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%96%B6+FULL+STACK+ARCHITECT;%E2%96%B6+CYBERSECURITY+SPECIALIST;%E2%96%B6+OPEN+SOURCE+INNOVATOR;%E2%96%B6+PERFORMANCE+OPTIMIZER" alt="Typing Animation" />
-</a>
+<!-- Epic Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:8B5CF6&height=300&section=header&text=AYOUB%20BEZAI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20System%20Architect&descAlignY=55&descSize=25&descAlign=50"/>
 
 <br>
 
-<!-- Neon Glowing Buttons -->
-<a href="https://portfolio.ayoubbezai.site">
-  <img src="https://custom-icon-badges.demolab.com/badge/-ENTER%20PORTFOLIO%20REALM-00ff41?style=for-the-badge&logo=rocket&logoColor=black&labelColor=000000" height="50"/>
-</a>
-<a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/">
-  <img src="https://custom-icon-badges.demolab.com/badge/-CONNECT%20MATRIX-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="50"/>
+<!-- Glowing Animated Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=💜+Crafting+Digital+Masterpieces;🚀+Building+The+Future;⚡+Innovation+Is+My+Weapon;🎨+Design+Meets+Performance" alt="Typing Animation" />
 </a>
 
 <br><br>
 
-<!-- Matrix Style Divider -->
-```diff
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@                                                                              @@
-@@  ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗                     @@
-@@  ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║                     @@
-@@  ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║                     @@
-@@  ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║                     @@
-@@  ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║                     @@
-@@  ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝                     @@
-@@                                                                              @@
-@@   █████╗ ██████╗  ██████╗██╗  ██╗██╗████████╗███████╗ ██████╗████████╗     @@
-@@  ██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝     @@
-@@  ███████║██████╔╝██║     ███████║██║   ██║   █████╗  ██║        ██║        @@
-@@  ██╔══██║██╔══██╗██║     ██╔══██║██║   ██║   ██╔══╝  ██║        ██║        @@
-@@  ██║  ██║██║  ██║╚██████╗██║  ██║██║   ██║   ███████╗╚██████╗   ██║        @@
-@@  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝ ╚═════╝   ╚═╝        @@
-@@                                                                              @@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-```
+<!-- Glowing Portal Button -->
+<a href="https://portfolio.ayoubbezai.site">
+  <img src="https://img.shields.io/badge/✨_ENTER_MY_UNIVERSE-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1e1b4b" alt="Portfolio" height="60" width="300"/>
+</a>
+
+<br><br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 </div>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎯 **Full Stack Developer** passionate about creating beautiful, performant web applications
+
+🎓 **CS Engineering Student** from Algeria, constantly learning and evolving
+
+🔐 **Google Cybersecurity Professional** - Security is not optional, it's mandatory
+
+🌟 **Active Community Member** - GDG, GDGC, Nexus Security Club
+
+💡 **Philosophy:** *"Great software is built on great architecture, powered by clean code, and secured by design"*
+
+🚀 **Current Focus:** Building scalable microservices, exploring AI/ML integration, and mastering cloud architecture
+
+<br><br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 
-<!-- Profile Stats with Neon Theme -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayoubbezai&label=SYSTEMS+ACCESSED&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ayoubbezai?label=FOLLOWERS&style=for-the-badge&color=brightgreen&labelColor=000000" alt="Followers"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&labelColor=000000" alt="Status"/>
-</p>
-
----
-
-<br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Tech Stack
 
 <div align="center">
 
-## ⚡ SYSTEM.INITIALIZE() → LOADING_PROFILE...
+### Frontend Magic ✨
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css,sass,bootstrap&theme=dark&perline=10" />
+
+<br><br>
+
+### Backend Power ⚡
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,firebase,graphql,mongodb,mysql&theme=dark&perline=10" />
+
+<br><br>
+
+### Tools & DevOps 🛠️
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,npm,vercel,netlify&theme=dark&perline=10" />
 
 </div>
 
-```javascript
-class SystemArchitect {
-    constructor() {
-        this.name = "Ayoub Bezai";
-        this.location = "M'Sila, Algeria 🇩🇿";
-        this.role = "Full Stack System Architect";
-        this.version = "2.0.25";
-        this.status = "🟢 OPERATIONAL";
-    }
+<br>
 
-    getCoreModules() {
-        return {
-            frontend: {
-                primary: ["React.js", "Next.js", "TypeScript"],
-                styling: ["TailwindCSS", "Styled-Components", "Framer Motion"],
-                state: ["Redux", "Zustand", "React Query"],
-                quality: "ENTERPRISE_GRADE"
-            },
-            backend: {
-                runtime: ["Node.js", "Express.js", "Laravel"],
-                databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-                apis: ["REST", "GraphQL", "WebSocket"],
-                security: "MILITARY_LEVEL"
-            },
-            devOps: {
-                containerization: ["Docker", "Kubernetes"],
-                ci_cd: ["GitHub Actions", "Jenkins"],
-                cloud: ["AWS", "Vercel", "Netlify"],
-                monitoring: ["Real-Time Analytics"]
-            }
-        };
-    }
-
-    getAchievements() {
-        return [
-            "🎓 CS Engineering Student",
-            "🔐 Google Cybersecurity Professional",
-            "🌐 Active in GDG, GDGC, Nexus Security",
-            "⚡ 100+ Projects Deployed",
-            "🏆 Open Source Contributor"
-        ];
-    }
-
-    getCurrentMission() {
-        return "Building scalable, secure, and lightning-fast digital solutions";
-    }
-
-    getPhilosophy() {
-        return "Code is poetry. Architecture is art. Security is mandatory.";
-    }
-}
-
-const architect = new SystemArchitect();
-architect.initialize();
-// >> SYSTEM READY - ALL MODULES OPERATIONAL
-```
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
----
-
-<br>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Analytics
 
 <div align="center">
 
-## 🔥 TECHNOLOGY MATRIX - POWER LEVEL: MAXIMUM
-
-</div>
-
-<!-- Tech Stack with Progress Bars -->
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ FRONTEND ARSENAL
-
-```text
-React/Next.js     ████████████████████  100%
-TypeScript        ████████████████████  100%
-TailwindCSS       ████████████████████  100%
-JavaScript        ███████████████████░   95%
-Framer Motion     ██████████████████░░   90%
-HTML5/CSS3        ████████████████████  100%
-Redux/State Mgmt  ██████████████████░░   90%
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css&theme=dark&perline=4" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ BACKEND POWERHOUSE
-
-```text
-Node.js/Express   ████████████████████  100%
-Laravel/PHP       ██████████████████░░   90%
-MongoDB           ████████████████████  100%
-MySQL/PostgreSQL  ███████████████████░   95%
-Firebase          ██████████████████░░   90%
-REST/GraphQL      ███████████████████░   95%
-WebSocket         █████████████████░░░   85%
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql,firebase,graphql&theme=dark&perline=4" />
-</p>
-
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayoubbezai&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&ring_color=8B5CF6&fire_color=EC4899" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbezai&theme=radical&hide_border=true&background=1a1b27&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=A78BFA" />
 
 <br>
 
-<!-- DevOps Section -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbezai&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=FFFFFF&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubbezai&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&height=300" />
+
+</div>
+
+<br>
+
+<!-- Trophy Display -->
 <div align="center">
-
-### 🛠️ DEVOPS & TOOLS ECOSYSTEM
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,postman,figma,vercel,netlify,npm,yarn&theme=dark&perline=12" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 📊 NEURAL NETWORK ANALYTICS - REAL-TIME DATA
-
-</div>
-
-<!-- Advanced Stats Grid -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoubbezai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41&fire_color=00ff41&include_all_commits=true&count_private=true&custom_title=⚡%20GITHUB%20CORE%20METRICS"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbezai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff&langs_count=10&custom_title=🔥%20CODE%20DISTRIBUTION"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbezai&theme=black-ice&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=ffffff&dates=00ff41&sideNums=ffffff&currStreakNum=ffffff"/>
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubbezai&custom_title=⚡%20CONTRIBUTION%20FREQUENCY%20ANALYSIS&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&height=300"/>
-</div>
-
-<br>
-
-<!-- Trophy Case -->
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ayoubbezai&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers"/>
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🎯 MISSION CONTROL - ACTIVE OPERATIONS
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 CURRENT DEPLOYMENTS
-
-```yaml
-Mission_Status: ACTIVE
-Projects_Live: 15+
-Success_Rate: 99.9%
-Performance: OPTIMAL
-Security_Level: MAXIMUM
-
-Active_Focus:
-  - Microservices Architecture
-  - Real-Time Applications
-  - AI/ML Integration
-  - Cloud Infrastructure
-  - Security Hardening
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 💎 CORE COMPETENCIES
-
-```yaml
-Code_Quality:
-  - Clean Architecture: ⭐⭐⭐⭐⭐
-  - Performance Optimization: ⭐⭐⭐⭐⭐
-  - Security Best Practices: ⭐⭐⭐⭐⭐
-  - Scalability Design: ⭐⭐⭐⭐⭐
   
-Specializations:
-  - Full Stack Development
-  - System Architecture
-  - API Design & Development
-  - Database Optimization
-  - DevOps & CI/CD
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🎮 FEATURED REPOSITORIES - HALL OF FAME
+<img src="https://github-profile-trophy.vercel.app/?username=ayoubbezai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars" />
 
 </div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 💎 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/ayoubbezai/project-1">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=project-1&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=project-1&theme=radical&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/ayoubbezai/project-2">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=project-2&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/ayoubbezai/project-3">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=project-3&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/ayoubbezai/project-4">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=project-4&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubbezai&repo=project-2&theme=radical&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF" />
 </a>
 
 </div>
 
 <br>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+## 💬 Inspiration
+
 <div align="center">
 
-## 💻 CODE EXECUTION METRICS - WEEKLY BREAKDOWN
-
-<!--START_SECTION:waka-->
-```text
-⚡ Lightning Fast Development Cycle
-
-TypeScript       ████████████████░░░░   78.5%  |  28 hrs 15 mins
-React/Next.js    ████████░░░░░░░░░░░░   38.2%  |  13 hrs 45 mins
-Node.js          █████░░░░░░░░░░░░░░░   23.7%  |   8 hrs 30 mins
-TailwindCSS      ███░░░░░░░░░░░░░░░░░   15.1%  |   5 hrs 25 mins
-Configuration    ██░░░░░░░░░░░░░░░░░░    8.5%  |   3 hrs 05 mins
-
-🔥 Total Active Time: 59 hrs 00 mins (This Week)
-📊 Peak Productivity: Tuesday - Friday
-🎯 Projects Deployed: 3
-```
-<!--END_SECTION:waka-->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&borderWidth=2&borderColor=8B5CF6" />
 
 </div>
 
 <br>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-## 🌐 NETWORK CONNECTIONS - JOIN THE MATRIX
-
-<br>
-
-<!-- Social Network Grid -->
 <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&borderColor=00ff41" height="45"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" height="40"/>
 </a>
 <a href="https://github.com/ayoubbezai">
-  <img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&borderColor=00ff41" height="45"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" height="40"/>
 </a>
 <a href="https://www.instagram.com/ayoubbezai/">
-  <img src="https://img.shields.io/badge/Instagram-CONNECT-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&borderColor=00ff41" height="45"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27" height="40"/>
 </a>
-
-<br><br>
-
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-SEND_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&borderColor=00ff41" height="45"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" height="40"/>
 </a>
 <a href="https://leetcode.com/ayoubbezai/">
-  <img src="https://img.shields.io/badge/LeetCode-CHALLENGE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000&borderColor=00ff41" height="45"/>
-</a>
-<a href="https://portfolio.ayoubbezai.site">
-  <img src="https://img.shields.io/badge/Portfolio-EXPLORE-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000&borderColor=00ff41" height="45"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27" height="40"/>
 </a>
 
 <br><br>
 
-### 📡 TRANSMISSION CHANNELS OPEN FOR:
+### 🚀 Open For
 
-```diff
-+ Full Stack Development Contracts
-+ Open Source Collaborations  
-+ Technical Consulting
-+ Cybersecurity Projects
-+ System Architecture Design
-+ Code Review & Optimization
-```
+**Freelance Projects** • **Full-Time Opportunities** • **Open Source Collaborations** • **Technical Consulting**
 
 <br>
 
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-## 🎭 RANDOM SYSTEM QUOTE
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=00ff41)
-
-</div>
-
-<br>
-
----
+**⭐ If you like what you see, drop a star on my repos!**
 
 <br>
 
 <!-- Snake Animation -->
-<div align="center">
-
-## 🐍 CONTRIBUTION MATRIX - NEURAL PATHWAYS
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br><br>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ayoubbezai&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+
 </div>
 
 <br>
 
----
-
-<br>
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:8B5CF6&height=150&section=footer&fontSize=30&fontColor=fff&animation=twinkling"/>
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   "In a world of 1s and 0s, I architect the systems                ║
-║    that power tomorrow's digital revolution."                       ║
-║                                                                      ║
-║                    - Ayoub Bezai, System Architect                  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<!-- Cyberpunk Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer&text=END_TRANSMISSION&fontColor=00ff41&fontSize=30&animation=twinkling&fontAlignY=70"/>
-
-<br>
-
-**⚡ SYSTEM STATUS: OPERATIONAL | UPTIME: 99.9% | VERSION: 2.0.25**
-
-**💚 Powered by Innovation • Secured by Design • Built for Scale**
-
-<br>
-
-```python
-while(alive):
-    code()
-    optimize()
-    deploy()
-    repeat()
-# >> CONTINUOUS_DEPLOYMENT_MODE: ACTIVE
-```
+**💜 Crafted with passion • Powered by innovation • Built for excellence**
 
 </div>
