@@ -213,7 +213,7 @@ philosophy: |
 <!-- Contact Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="50" /> Let's Build Something Amazing
+
 
 ### 🌍 Open to exciting opportunities worldwide
 
