@@ -1,94 +1,81 @@
 <div align="center">
 
-<!-- 3D Isometric Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=AYOUB%20BEZAI&fontSize=70&color=0:667eea,100:764ba2&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=Building%20Tomorrow's%20Digital%20Experiences&descAlignY=65&descSize=20"/>
+<!-- Modern Hero Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=&fontSize=0&color=gradient&customColorList=6,11,20"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=80&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=100&lines=AYOUB+BEZAI" alt="Name" />
 
-<br>
-
-<div align="center">
-  
-<!-- Dynamic Animated Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=35&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=900&height=80&lines=🚀+Full+Stack+Engineer+%7C+Problem+Solver;💎+Clean+Code+Advocate+%7C+Performance+Optimizer;🔐+Security+First+%7C+Innovation+Always;🌍+Open+Source+Enthusiast+%7C+Community+Builder" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Glowing CTA Buttons -->
-<table>
-<tr>
-<td>
-<a href="https://portfolio.ayoubbezai.site">
-<img src="https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-667eea?style=for-the-badge&logoColor=white" height="50" width="220"/>
-</a>
-</td>
-<td>
-<a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/">
-<img src="https://img.shields.io/badge/💼_CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="180"/>
-</a>
-</td>
-<td>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/✉️_EMAIL_ME-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="50" width="180"/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🎯 Who Am I?
-
-Hey there! I'm **Ayoub Bezai**, a passionate **Full Stack Developer** from Algeria who loves turning complex problems into elegant solutions.
-
-### 🎓 Background
-- 📚 **CS Engineering Student** 
-- 🏆 **Google Cybersecurity Professional**
-- 🌟 Active in **GDG, GDGC & Nexus Security Club**
-
-### 🔥 What Drives Me
-- Building **scalable** web applications
-- Writing **clean, maintainable** code
-- Exploring **cybersecurity** best practices
-- Contributing to **open source** projects
-- Learning something **new** every day
-
-### 🎨 My Approach
-> "Great software isn't just about making it work—it's about making it beautiful, secure, and built to last."
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Problem+Solver;Clean+Code+Advocate+%7C+Performance+Optimizer;Security+First+%7C+Innovation+Always;Open+Source+Enthusiast+%7C+Builder" alt="Titles" />
 
 <br><br>
 
-### 📊 Quick Stats
+<!-- Epic CTA Buttons -->
+<a href="https://portfolio.ayoubbezai.site">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-667eea?style=for-the-badge&logoColor=white&logo=safari&logoSize=auto" height="60" width="280"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="60" width="240"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/HIRE_ME-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="60" width="180"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=ayoubbezai&label=Profile%20Views&color=667eea&style=flat-square" />
+<br><br>
 
-```
-🌍 Location: M'Sila, Algeria
-💼 Status: Open to Opportunities
-🎯 Focus: Full Stack Development
-🔧 Expertise: React, Node.js, Laravel
-🌱 Learning: Cloud Architecture & AI
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<br>
+
+<!-- About Section with Cards -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="50" /> About Me
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+### 👋 Hello World!
+
+I'm **Ayoub Bezai**, a passionate **Full Stack Developer** from **Batna, Algeria** 🇩🇿 who transforms complex challenges into elegant, scalable solutions.
+
+<br>
+
+```yaml
+name: Ayoub Bezai
+located_in: Batna, Algeria
+current_role: Full Stack Developer
+education: CS Engineering Student
+certifications:
+  - Google Cybersecurity Professional
+community:
+  - Google Developer Groups (GDG)
+  - Google Developer Student Clubs (GDGC)
+  - Nexus Security Club
+
+interests:
+  - Building scalable web applications
+  - Writing clean, maintainable code
+  - Cybersecurity best practices
+  - Open source contribution
+  - Continuous learning
+
+philosophy: |
+  "Great software isn't just about making it work—
+   it's about making it beautiful, secure, and built to last."
 ```
 
 </td>
@@ -97,11 +84,18 @@ Hey there! I'm **Ayoub Bezai**, a passionate **Full Stack Developer** from Alger
 
 <br>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+<!-- Tech Stack Section -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" /> Tech Arsenal
+
+</div>
 
 <div align="center">
 
@@ -144,6 +138,8 @@ Hey there! I'm **Ayoub Bezai**, a passionate **Full Stack Developer** from Alger
 </tr>
 </table>
 
+<br>
+
 ### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css,sass,bootstrap,materialui,figma&perline=12" />
@@ -160,128 +156,150 @@ Hey there! I'm **Ayoub Bezai**, a passionate **Full Stack Developer** from Alger
 
 <br>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
-## 📈 GitHub Statistics
-
+<!-- GitHub Stats -->
 <div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="50" /> GitHub Analytics
 
 <table>
 <tr>
 <td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayoubbezai&show_icons=true&theme=algolia&hide_border=true&bg_color=1F222E&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=ayoubbezai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&ring_color=667eea" width="100%" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbezai&theme=algolia&hide_border=true&background=1F222E&stroke=667eea&ring=667eea&fire=ffa500&currStreakLabel=667eea&sideLabels=c9d1d9&dates=a8b1c1" width="100%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbezai&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=ffa500&currStreakLabel=667eea&sideLabels=ffffff&dates=a991f1" width="100%" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubbezai&custom_title=Contribution%20Activity%20Graph&hide_border=true&bg_color=1F222E&color=c9d1d9&line=667eea&point=ffa500&area=true&area_color=667eea&height=300" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubbezai&custom_title=Contribution%20Activity&hide_border=true&bg_color=0D1117&color=ffffff&line=667eea&point=ffa500&area=true&height=300" width="100%" alt="Contribution Graph"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbezai&layout=compact&theme=algolia&hide_border=true&bg_color=1F222E&title_color=667eea&text_color=c9d1d9&langs_count=10&hide=html,css" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbezai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" width="50%" alt="Top Languages"/>
 
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
-## 🏆 Achievements & Recognition
-
+<!-- Quote Section -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayoubbezai&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="50" /> Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderWidth=2&borderColor=667eea" width="70%"/>
 
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
-## 💡 Random Dev Wisdom
-
+<!-- Contact Section -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&borderWidth=2&borderColor=667eea&animation=grow_out_in" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="50" /> Let's Build Something Amazing
+
+### 🌍 Open to exciting opportunities worldwide
 
 </div>
 
 <br>
 
----
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="200">
+<td align="center">
 <a href="https://www.linkedin.com/in/ayoub-bezai-b55315288/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="80"/>
 <br><br>
-<img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50"/>
-<br><b>Connect on LinkedIn</b>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><sub><b>Connect & Network</b></sub>
 </a>
 </td>
-<td align="center" width="200">
+<td align="center">
 <a href="https://github.com/ayoubbezai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.icons8.com/3d-fluency/94/github.png" width="80"/>
 <br><br>
-<img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="50"/>
-<br><b>Follow on GitHub</b>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br><sub><b>Follow & Star</b></sub>
 </a>
 </td>
-<td align="center" width="200">
+<td align="center">
 <a href="https://www.instagram.com/ayoubbezai/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="80"/>
 <br><br>
-<img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width="50"/>
-<br><b>Follow on Instagram</b>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<br><sub><b>Behind the Scenes</b></sub>
 </a>
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
+<td align="center">
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.icons8.com/3d-fluency/94/email.png" width="80"/>
 <br><br>
-<img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="50"/>
-<br><b>Send Email</b>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br><sub><b>Direct Message</b></sub>
 </a>
 </td>
-<td align="center" width="200">
+<td align="center">
 <a href="https://leetcode.com/ayoubbezai/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.icons8.com/3d-fluency/94/code.png" width="80"/>
 <br><br>
-<img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="50"/>
-<br><b>Solve Together</b>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br><sub><b>Solve Together</b></sub>
 </a>
 </td>
-<td align="center" width="200">
+<td align="center">
 <a href="https://portfolio.ayoubbezai.site">
-<img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.icons8.com/3d-fluency/94/domain.png" width="80"/>
 <br><br>
-<img src="https://cdn-icons-png.flaticon.com/128/2920/2920349.png" width="50"/>
-<br><b>View Portfolio</b>
+<img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<br><sub><b>Explore My Work</b></sub>
 </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 💼 Currently Available For
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="50"/>
+<br><b>Full-Time Roles</b>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50"/>
+<br><b>Freelance Projects</b>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50"/>
+<br><b>Consulting</b>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50"/>
+<br><b>Collaborations</b>
 </td>
 </tr>
 </table>
@@ -290,38 +308,38 @@ Hey there! I'm **Ayoub Bezai**, a passionate **Full Stack Developer** from Alger
 
 <br>
 
----
-
-<br>
-
 <div align="center">
-
-### 🚀 Currently Open For
-
-**Full-Time Opportunities** • **Freelance Projects** • **Open Source Collaboration** • **Technical Consulting**
-
-<br>
-
-### ⭐ If you find my work interesting, don't forget to star the repos!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
 <!-- Snake Animation -->
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ayoubbezai/ayoubbezai/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
-<br><br>
+<br>
 
-<!-- Sleek Footer -->
+<!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,15,18,20,23&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
-**Made with ❤️ by Ayoub Bezai**
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ayoubbezai&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
+
+<br><br>
+
+**💜 Crafted with passion • Powered by coffee ☕ • Built to inspire**
 
 </div>
