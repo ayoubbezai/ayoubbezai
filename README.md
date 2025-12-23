@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Modern Hero Section -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=&fontSize=0&color=gradient&customColorList=6,11,20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=80&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=100&lines=AYOUB+BEZAI" alt="Name" />
 
